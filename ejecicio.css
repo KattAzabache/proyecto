@@ -88,7 +88,7 @@ li a{
 	float: left;
 	width: 50%;
 	position: relative;
-	padding: 25px;
+	padding: 30px;
     height: 619px;
 }
 .margen{
@@ -97,7 +97,7 @@ li a{
 .contenido{
 	padding: 10px;
 	background-color: #FFFFFF;
-	height: 555px;
+	height: 565px;
 
 }
 .foto{
@@ -136,7 +136,7 @@ color: rgb(0, 148, 255);
 	height: 60px;
 	background-color: #919191;
 	position: relative;
-	top:  195%;
+	top:1245px;
 	padding: 20px; 
 }
 .footer h6{
