@@ -16,13 +16,14 @@ body{
 	height: 700px;
 	background-image: url(https://ununsplash.imgix.net/photo-1416431168657-a6c4184348ab?q=75&fm=jpg&w=1080&fit=max&s=1f1ddb63b9713f16d7f7877a0c3f96e4);	
     background-size: cover;
+    margin-bottom: 60px;
 }
 .click {
     width: 100px;
     height: 50px;
     background-color: rgba(14, 134, 184, 0);
     left: 50px;
-    top: 50px;
+    top: 80px;
     text-align: center;
     position: fixed;
     border: 1px dashed rgb(178, 200, 40);
@@ -89,7 +90,7 @@ li a{
 	width: 50%;
 	position: relative;
 	padding: 30px;
-    height: 619px;
+    height: 650px;
 }
 .margen{
 	margin: 0 10%;
@@ -97,7 +98,7 @@ li a{
 .contenido{
 	padding: 10px;
 	background-color: #FFFFFF;
-	height: 565px;
+	height: 640px;
 
 }
 .foto{
@@ -136,7 +137,7 @@ color: rgb(0, 148, 255);
 	height: 60px;
 	background-color: #919191;
 	position: relative;
-	top:1245px;
+	top:1352px;
 	padding: 20px; 
 }
 .footer h6{
