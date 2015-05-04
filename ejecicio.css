@@ -55,10 +55,10 @@ body{
 }
 .menu{
 	position: absolute;
-	width: 30%;
+	width: 33%;
 	top: 10%;
 	right: 1%;
-  text-align: center;
+    text-align: center;
 }
 .list{
 	list-style: none;
@@ -89,7 +89,7 @@ li a{
 	width: 50%;
 	position: relative;
 	padding: 25px;
-	height: 600px;
+    height: 619px;
 }
 .margen{
 	margin: 0 10%;
@@ -115,6 +115,7 @@ p{
    position: absolute;
    padding: 5px;
    text-align: center;
+   margin: 45px;
 }
 .mas span {
    font-family: monospace;
@@ -135,7 +136,7 @@ color: rgb(0, 148, 255);
 	height: 60px;
 	background-color: #919191;
 	position: relative;
-	top:  1175px;
+	top:  195%;
 	padding: 20px; 
 }
 .footer h6{
