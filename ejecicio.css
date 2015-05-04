@@ -23,7 +23,7 @@ body{
     height: 50px;
     background-color: rgba(14, 134, 184, 0);
     left: 50px;
-    top: 80px;
+    top: 40px;
     text-align: center;
     position: fixed;
     border: 1px dashed rgb(178, 200, 40);
@@ -116,7 +116,7 @@ p{
    position: absolute;
    padding: 5px;
    text-align: center;
-   margin: 45px;
+   margin: 1px;
 }
 .mas span {
    font-family: monospace;
