@@ -57,7 +57,7 @@ body{
 .menu{
 	position: absolute;
 	width: 35%;
-	top: 10%;
+	top: 6%;
 	right: 1%;
     text-align: center;
 }
@@ -79,7 +79,6 @@ li a{
     font-weight: 700;
 }
 .columnas{
-	background-color: #DBDBCF;
 	padding: 20px;
 }
 .container1,
@@ -116,7 +115,6 @@ p{
    position: absolute;
    padding: 5px;
    text-align: center;
-   margin: 1px;
 }
 .mas span {
    font-family: monospace;
